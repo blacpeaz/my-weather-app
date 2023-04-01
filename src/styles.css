@@ -1,0 +1,64 @@
+h1 {
+  padding: 5px 38px 0px;
+  font-size: 30px;
+  margin: 0;
+  line-height: 0.5;
+}
+.degree-unit {
+  position: relative;
+  top: -44px;
+  left: -10px;
+  font-size: 20px;
+}
+
+button:hover {
+  font-weight: bold;
+}
+
+strong {
+  font-size: 20px;
+}
+
+.container {
+  margin: 50px auto;
+  width: 50%;
+}
+
+.input-city {
+  padding: 20px;
+}
+
+.weather-today {
+  margin-left: 10px;
+  color: yellow;
+  font-size: 65px;
+}
+
+.temp-num {
+  font-size: 80px;
+  margin: 5px;
+}
+
+.other-weather-parameters {
+  margin: 20px 10px;
+}
+
+.weather-condition {
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+
+.days {
+  text-align: center;
+  margin: 2px;
+  padding-right: 25px;
+}
+
+.newdays {
+  padding-left: 15px;
+}
+
+.divider {
+  color: black;
+}
